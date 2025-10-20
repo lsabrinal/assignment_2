@@ -1,0 +1,8 @@
+# Ignore Jupyter autosaves
+*.ipynb_checkpoints
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python cache folders
+__pycache__/
